@@ -6,7 +6,7 @@ Hello! 👋 I'm Imene LEGSIR, a passionate Software Engineering student currentl
 
 ## Education 📚
 
-- **Cycle d'Ingénieur:** 4th year, Ensa Oujda
+- **Engineering degree program:** 4th year, Ensa Oujda
 - **Specialization:** Software Engineering
 
 ## Seeking Opportunities 🔍
@@ -28,4 +28,5 @@ I am actively seeking a PFA (Projet de Fin d'Année) internship to apply and enh
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/imane-legsir-338242210/)
 - **GitHub:** [Check my projects](https://github.com/ImeneLEG)
 
-Feel free to reach out to me for collaboration, opportunities, or just to connect! Happy Coding! 🚀
+Feel free to reach out to me for collaboration, opportunities, or just to connect!
+# Happy Coding!🚀
