@@ -2,17 +2,17 @@
 
 ## About Me ℹ️
 
-Hello! 👋 I'm Imene LEGSIR, a passionate Software Engineering student currently in the 4th year of my engineering studies.
+Hello! 👋 I'm Imene LEGSIR, a passionate Software Engineering student currently in the final year of my engineering studies.
 
 ## Education 📚
 
-- **Engineering degree program:** 4th year, Ensa Oujda
+- **Engineering degree program:** Final year, Ensa Oujda
 - **Specialization:** Software Engineering
 
 ## Seeking Opportunities 🔍
 
-I am actively seeking a PFA (Projet de Fin d'Année) internship to apply and enhance my skills in a real-world setting. Additionally, I'm open to any freelance opportunities in software development.
-
+📢 Actively seeking a PFE internship, a critical step in my engineering journey. 
+This long-term project will not only allow me to apply my skills but also shape the foundation of my professional #career. I am eager to collaborate with a forward-thinking company where I can contribute to innovative and impactful projects that drive real-world solutions.
 ## Skills 💼
 
 - **Programming Languages:** C#, Java, C, Python..
